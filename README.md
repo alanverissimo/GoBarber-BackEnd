@@ -26,7 +26,7 @@ O presente repositório trata apenas do Back-End, ou seja, das regras de negóci
 
 ### `Como iniciar?`
 
-Defina em seu terminal o diretório "*Project*" e digite "*yarn dev*".
+Defina em seu terminal o diretório "*modulo02* e digite "*yarn dev*".
 
 ### `Como usar?`
 
